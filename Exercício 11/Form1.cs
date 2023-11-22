@@ -9,7 +9,7 @@ namespace Exercício_11
 
         private void corETipoDeLetraToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            label1.Font 
+            label1.Font; 
         }
     }
 }
